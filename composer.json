@@ -1,0 +1,14 @@
+{
+    "name": "vijaysingh1024/mahirepo",
+    "description": "Test for Mahi.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vijay Singh",
+            "email": "vijay.singh@r-ims.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
